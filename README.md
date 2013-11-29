@@ -12,9 +12,10 @@ Go to SourceTree -> Preferences -> Custom Actions -> Add and fill custom action 
 
 Menu Caption: `Branch Name`
 
-+ Show Full Output
+`+ Show Full Output`
 
-Script to run: /Users/michalzaborowski/Library/Application Support/SourceTree/branch_name.sh
+Script to run: `/Users/user_name/Library/Application Support/SourceTree/branch_name.sh`
+
 Parameters: $SHA
 
 ## License
