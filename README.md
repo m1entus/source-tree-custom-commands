@@ -8,7 +8,7 @@ The CustomActions of SourceTree are stored at `~/Library/Application Support/Sou
 ## How To Use
 Copy bash script to `~/Library/Application Support/SourceTree/`
 
-Go to SourceTree -> Preferences -> Custom Actions -> Add and fill custom action with parameters:
+Go to `SourceTree -> Preferences -> Custom Actions -> Add` and fill custom action with parameters:
 
 Menu Caption: `Branch Name`
 
@@ -16,7 +16,7 @@ Menu Caption: `Branch Name`
 
 Script to run: `/Users/user_name/Library/Application Support/SourceTree/branch_name.sh`
 
-Parameters: $SHA
+Parameters: `$SHA`
 
 ## License
 Feel free to use it.
