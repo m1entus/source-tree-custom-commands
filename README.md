@@ -14,7 +14,7 @@ Menu Caption: `Branch Name`
 
 `+ Show Full Output`
 
-Script to run: `/Users/user_name/Library/Application Support/SourceTree/branch_name.sh`
+Script to run: `~/Library/Application Support/SourceTree/branch_name.sh`
 
 Parameters: `$SHA`
 
